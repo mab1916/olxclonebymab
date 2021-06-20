@@ -1,0 +1,17 @@
+.menulink {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+.olximage {
+  width: 40px;
+  height: auto;
+}
+.links {
+  text-decoration: none;
+  margin-right: 14px;
+  color: black;
+  font-size: 15px;
+  padding: 12px;
+  float: right;
+}
